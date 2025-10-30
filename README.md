@@ -131,10 +131,5 @@ Content-Type: multipart/form-data
 4. Leads are distributed equally among agents and saved in MongoDB
 5. Dashboard displays agents and their assigned leads
 
----
-
-## 👨‍💻 Author
-
- **Atharva Sonar** – Internship Project Submission
 
 
